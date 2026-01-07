@@ -7,6 +7,4 @@ Student ID: 34048920
 2. Music Playlist Manager using Doubly Linked Lists
 3. Recognising Key Influences in Social Networks using Graph Algorithms
 
-## Academic Integrity
-All code in this repository was written by me. AI tools were used only for brainstorming and language refinement in accordance with university guidelines.
 
